@@ -57,20 +57,6 @@
         </url>
     
         <url>
-            <loc>https://example.com/2019/08/loveit-preview/</loc>
-            
-                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
             <loc>https://example.com/posts/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
@@ -86,6 +72,20 @@
     
         <url>
             <loc>https://example.com/tags/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://example.com/2019/08/loveit-preview/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
